@@ -1,2 +1,2 @@
 # practice
-ui &amp; js practice
+documenting ui &amp; js practice
